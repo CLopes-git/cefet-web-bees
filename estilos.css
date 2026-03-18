@@ -17,3 +17,14 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+.curiosidade{
+    background-image: url("imgs/favo-de-mel.png");
+    margin-right: 20px;
+    border-radius: 5px;
+    border: 1px solid #ffc047;
+    padding: 1%;
+}
+.interrogação{
+    float: left;
+    margin-right: 1px;
+}
