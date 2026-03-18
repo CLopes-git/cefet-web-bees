@@ -1,0 +1,19 @@
+html{
+    background-image: linear-gradient(0deg, rgb(162, 238, 162), #88dafa);
+    min-height: 100%;
+}
+body{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p {
+    text-align: justify;
+}
+#titulo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
