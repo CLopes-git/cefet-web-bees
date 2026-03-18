@@ -28,3 +28,15 @@ p {
     float: left;
     margin-right: 1px;
 }
+.casta-de-abelha{
+    border-radius: 50%;
+    border: 5px solid #ffc047;
+}
+.direita{
+    float: right;
+    margin-left: 20px;
+}
+.esquerda {
+  float: left;
+  margin-right: 20px;
+}
