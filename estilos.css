@@ -17,6 +17,11 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+div{
+    box-shadow: 4px 4px 4px #0003;
+    background-color: #ffffff30;
+    padding: 30px;
+}
 .curiosidade{
     background-image: url("imgs/favo-de-mel.png");
     margin-right: 20px;
