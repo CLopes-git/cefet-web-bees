@@ -45,3 +45,28 @@ div{
   float: left;
   margin-right: 20px;
 }
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    color: orange;
+    text-decoration: underline;
+}
+a[href^="http"] {
+    background-color: lightyellow;
+}
+p:last-of-type {
+    text-align: right;
+}
+img:not([alt]) {
+    border: 3px solid red;
+}
