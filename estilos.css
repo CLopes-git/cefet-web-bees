@@ -70,3 +70,6 @@ p:last-of-type {
 img:not([alt]) {
     border: 3px solid red;
 }
+#curiosidade1, #curiosidade2 {
+    clear: both;
+}
